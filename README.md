@@ -86,6 +86,7 @@
     <td>VS Code, Visual Studio, Android Studio</td>
   </tr>
 
+---
 
 ## 🎯 What I'm looking for
 
