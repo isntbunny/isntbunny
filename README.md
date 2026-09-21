@@ -7,7 +7,7 @@
 
 🌐 Chinese (native) • English (B1) • e-mail: [isntbunny@gmail.com](mailto:isntbunny@gmail.com) • Matrix: [@isntbunny:matrix.org](https://matrix.to/#/@isntbunny:matrix.org)
 
-💻 Senior high school student  • Null Developer • Focus on Resting 
+💻 Senior high school student 
 
 📍 18 y.o.
 
@@ -37,23 +37,7 @@
     <td> 🤔
     </td>
     <td> imagination </td>
-  </tr>
-  <tr>
-    <td><b>🖥️ Desktop</b></td>
-    <td>🤤
-      <img src="https://skillicons.dev/icons?i=chatgpt" height="35" title="ChatGPT" />
-      <img src="https://skillicons.dev/icons?i=claude" height="35" title="Claude" />
-      <img src="https://skillicons.dev/icons?i=deepseek" height="35" title="Deepseek" />
-      <img src="https://skillicons.dev/icons?i=gemini" height="35" title="Gemini" />
-    </td>
-    <td>Vibe Coding, ChatGPT, Claude, Deepseek, Gemini</td>
-  </tr>
-  <tr>
-    <td><b>🎮 Game Dev</b></td>
-    <td> 🤖
-    </td>
-    <td>AI Vibe Coding</td>
-  </tr>
+    </tr>
   <tr>
     <td><b>🖥️ DevOps & Infrastructure</b></td>
     <td>
@@ -66,13 +50,6 @@
     </td>
     <td>Windows, Git, Github, GitHub Actions, Bash, PowerShell</td>
   </tr>
-  <tr>
-    <td><b>🏢 Enterprise / Legacy</b></td>
-    <td> 🤚🏼
-    </td>
-    <td> hand, manual </td>
-  </tr>
-  <tr>
 
   <tr>
     <td><b>🛠️ IDE & Editors</b></td>
