@@ -75,5 +75,35 @@
     </td>
     <td>Rust, Tailwind, Javascript, Typescript, Linux, Node.js, C++, Java</td>
   </tr>
+</table>
+---
 
+## 🎯 What I'm looking for
+
+<table>
+  <tr>
+    <td><b>💼 Role</b></td>
+    <td>all is ok</td>
+  </tr>
+  <tr>
+    <td><b>🏢 Environment</b></td>
+    <td> all is ok </td>
+  </tr>
+  <tr>
+    <td><b>📍 Location</b></td>
+    <td>Remote or hybrid (if your company is on the earth welcome to contact me)</td>
+  </tr>
+  <tr>
+    <td><b>🧠 Stack I'd love</b></td>
+    <td>AI</td>
+  </tr>
+  <tr>
+    <td><b>🤝 Team culture</b></td>
+    <td>resting-first</td>
+  </tr>
+  <tr>
+    <td><b>🚫 Not interested in</b></td>
+    <td>Examination, math problems</td>
+  </tr>
+</table>
   
