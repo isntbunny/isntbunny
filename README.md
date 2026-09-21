@@ -30,14 +30,17 @@
   <tr>
     <td><b>⚙️ Backend & Databases</b></td>
     <td>
-      <a href="https://www.rust-lang.org" target="_blank"><img src="https://cdn.simpleicons.org/rust/white" height="35" title="Rust" /></a>
+      <img src="https://skillicons.dev/icons?i=rust" height="35"/>
       <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" height="35" title="Node.js" /></a>
+      <img src="https://skillicons.dev/icons?i=python" height="35"/>
+      <img src="https://skillicons.dev/icons?i=cpp" height="35"/>
+      <img src="https://skillicons.dev/icons?i=java" height="35"/>
     </td>
-    <td>Rust, Node.js</td>
+    <td>Rust, Node.js, Python, C++, Java</td>
   </tr>
     <tr>
     <td><b>📱 Mobile</b></td>
-    <td> imagination 
+    <td> 🤔
     </td>
     <td> imagination </td>
   </tr>
@@ -74,5 +77,14 @@
   </tr>
   <tr>
 
+  <tr>
+    <td><b>🛠️ IDE & Editors</b></td>
+    <td>
+      <a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" height="35" title="VS Code" /></a>
+      <a href="https://visualstudio.microsoft.com" target="_blank"><img src="https://skillicons.dev/icons?i=visualstudio" height="35" title="Visual Studio" /></a>
+      <a href="https://developer.android.com/studio" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio" height="35" title="Android Studio" /></a>
+    </td>
+    <td>VS Code, Visual Studio, Android Studio</td>
+  </tr>
 
   
