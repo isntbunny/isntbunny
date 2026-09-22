@@ -76,7 +76,6 @@
     <td>Rust, Tailwind, Javascript, Typescript, Linux, Node.js, C++, Java</td>
   </tr>
 </table>
----
 
 ## 🎯 What I'm looking for
 
@@ -106,4 +105,7 @@
     <td>Examination, math problems</td>
   </tr>
 </table>
-  
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=aliceblue&height=60&section=footer" width="100%"/>
+  <b>Eucaly</b> • 2023-2026 <br/>
+</p>
